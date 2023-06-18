@@ -1,4 +1,4 @@
-// Write your code here
+// Write your code heree
 import './index.css'
 
 const registrationStatus = {
